@@ -1,0 +1,2 @@
+# EFI
+Ryzen 5 5500 + Rx6600 + A520M-A PRO
